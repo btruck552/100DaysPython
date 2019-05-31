@@ -1,7 +1,8 @@
 # Day 1: Installing Python
 **Completion Date:** 
-
+5/31/19
 **Learned:** 
+Installed Anaconda and git
 
 # Day 2: Printing in Python
 **Completion Date:** 
