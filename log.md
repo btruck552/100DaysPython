@@ -12,8 +12,9 @@ I didn't know about f-strings but they seem very useful
 
 # Day 3: Operators
 **Completion Date:** 
-
+6/3/19
 **Learned:** 
+Special characters, raw text string
 
 # Day 4: Variables & Variable Types
 **Completion Date:** 
