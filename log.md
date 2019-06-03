@@ -6,8 +6,9 @@ Installed Anaconda and git
 
 # Day 2: Printing in Python
 **Completion Date:** 
-
+6/3/19
 **Learned:** 
+I didn't know about f-strings but they seem very useful
 
 # Day 3: Operators
 **Completion Date:** 
