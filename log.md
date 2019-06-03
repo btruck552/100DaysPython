@@ -18,8 +18,9 @@ Special characters, raw text string
 
 # Day 4: Variables & Variable Types
 **Completion Date:** 
-
+6/3/19
 **Learned:** 
+Testing for contents in a variable.  Importing the 'math' library to perform sqrt function
 
 # Day 5: String Formatting
 **Completion Date:** 
