@@ -24,9 +24,9 @@ Testing for contents in a variable.  Importing the 'math' library to perform sqr
 
 # Day 5: String Formatting
 **Completion Date:** 
-
+6/4/19
 **Learned:** 
-
+String Formatting - specifically using parameters inside the {} with the .format function
 # Day 6: Lists
 **Completion Date:** 
 
