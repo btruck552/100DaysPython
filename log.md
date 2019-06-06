@@ -35,8 +35,10 @@ Lists are mutable and very flexible
 
 # Day 7: Ranges
 **Completion Date:** 
-
+6/6/19
 **Learned:** 
+The endpoint of the range is not inclusive.
+The divisibility check is a reminder that there are many ways to solve a problem - never would have thought to do it this way.
 
 # Day 8: Tuples
 **Completion Date:** 
