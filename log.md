@@ -42,8 +42,9 @@ The divisibility check is a reminder that there are many ways to solve a problem
 
 # Day 8: Tuples
 **Completion Date:** 
-
+6/6/19
 **Learned:** 
+Tuples are immutable lists.  Using them to assign multiple variables at once.
 
 # Day 9: Index and Slicing
 **Completion Date:** 
