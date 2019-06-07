@@ -54,8 +54,9 @@ Slicing within list elements
 
 # Day 10: If/Else
 **Completion Date:** 
-
+6/7/19
 **Learned:** 
+I didn't know about the single line conditional assignment
 
 # Day 11: Augmented Assignments
 **Completion Date:** 
