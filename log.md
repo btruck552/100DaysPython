@@ -48,8 +48,9 @@ Tuples are immutable lists.  Using them to assign multiple variables at once.
 
 # Day 9: Index and Slicing
 **Completion Date:** 
-
+6/7/19
 **Learned:** 
+Slicing within list elements
 
 # Day 10: If/Else
 **Completion Date:** 
