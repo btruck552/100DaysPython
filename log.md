@@ -66,7 +66,7 @@ Didn't know about the bitwise operator augmented assignments
 
 # Day 12: For/While Loops
 **Completion Date:** 
-
+6/10/19
 **Learned:** 
 
 # Day 13: Continue/Break
