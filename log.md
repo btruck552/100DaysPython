@@ -71,13 +71,16 @@ Didn't know about the bitwise operator augmented assignments
 
 # Day 13: Continue/Break
 **Completion Date:** 
-
+6/10/19
 **Learned:** 
 
 # Day 14: Module 1 Challenge
 **Completion Date:** 
-
+6/10/19
 **Learned:** 
+looping through lists and lists-inside-of-lists
+checking types
+Augmented assignments
 
 # Day 15: Dictionaries
 **Completion Date:** 
