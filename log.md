@@ -60,8 +60,9 @@ I didn't know about the single line conditional assignment
 
 # Day 11: Augmented Assignments
 **Completion Date:** 
-
+6/10/19
 **Learned:** 
+Didn't know about the bitwise operator augmented assignments
 
 # Day 12: For/While Loops
 **Completion Date:** 
