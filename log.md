@@ -90,8 +90,9 @@ I've never used dictionaries or the get() funciton
 
 # Day 16: Sets
 **Completion Date:** 
-
+6/11/19
 **Learned:** 
+Sets are unordered lists
 
 # Day 17: User Input
 **Completion Date:** 
