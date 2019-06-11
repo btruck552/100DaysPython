@@ -84,8 +84,9 @@ Augmented assignments
 
 # Day 15: Dictionaries
 **Completion Date:** 
-
+6/11/19
 **Learned:** 
+I've never used dictionaries or the get() funciton
 
 # Day 16: Sets
 **Completion Date:** 
