@@ -96,7 +96,7 @@ Sets are unordered lists
 
 # Day 17: User Input
 **Completion Date:** 
-
+6/13/19
 **Learned:** 
 
 # Day 18: Packages
