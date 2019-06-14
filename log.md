@@ -101,8 +101,9 @@ Sets are unordered lists
 
 # Day 18: Packages
 **Completion Date:** 
-
+6/13/19
 **Learned:** 
+Did not know about turtle, webbroswer, time, datetime, os packages. Why do we do ' """ 
 
 # Day 19: File Input/Output
 **Completion Date:** 
