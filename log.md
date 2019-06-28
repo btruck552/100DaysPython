@@ -107,52 +107,60 @@ Did not know about turtle, webbroswer, time, datetime, os packages. Why do we do
 
 # Day 19: File Input/Output
 **Completion Date:** 
-
+6/27/19
 **Learned:** 
+Creating/opening/writing to files
 
 # Day 20: Functions
 **Completion Date:** 
-
+6/27/19
 **Learned:** 
+Defining functions, docstrings
 
-# Day 21: Pytest
+# Day 21: PyTest
 **Completion Date:** 
-
+6/27/19
 **Learned:** 
 
 # Day 22: Recursive Functions
 **Completion Date:** 
-
+6/27/19
 **Learned:** 
+Recursion vs loops
 
 # Day 23: Lambdas
 **Completion Date:** 
-
+6/27/19
 **Learned:** 
+Lambda functions 
 
 # Day 24: Object-Oriented Programming
 **Completion Date:** 
-
+6/27/19
 **Learned:** 
+Classes and decorators - need to look at decorators more
 
 # Day 25: List Comprehensions
 **Completion Date:** 
-
+6/27/19
 **Learned:** 
+List comprehensions are like lambda functions for creating a list
 
 # Day 26: Map, Filter, and Zip
 **Completion Date:** 
-
+6/27/19
 **Learned:** 
-
+lambda functions: filter() filters for a criteria, map() applys a function to the list, 
+zip() creates tuples from multiple lists
+don't use reduce()
 # Day 27: Logging
 **Completion Date:** 
-
+6/27/19
 **Learned:** 
 
 # Day 28: Module 2 Challenge
 **Completion Date:** 
-
+6/27/19
 **Learned:** 
 
 # Day 29: File Manipulations
