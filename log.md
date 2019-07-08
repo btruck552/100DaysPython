@@ -208,12 +208,12 @@ don't use reduce()
 
 **Learned:** 
 
-# Day 38: Web Scraping
+# Day 38: API Integration
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 39: Stock Market Data Collection
+# Day 39: Web Scraping
 **Completion Date:** 
 
 **Learned:** 
